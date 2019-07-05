@@ -9,9 +9,7 @@ void main() {
     ),
     backgroundColor: Colors.blueGrey,
     body: Center(
-      child: Image(
-          image: NetworkImage(
-              'https://media.giphy.com/media/5885nYOgBHdCw/giphy.gif')),
+      child: Image(image: AssetImage('images/i_am_rich.gif')),
     ),
   )));
 }
