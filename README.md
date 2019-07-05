@@ -4,8 +4,8 @@ Versão do aplicativo [I Am Rich](https://en.wikipedia.org/wiki/I_Am_Rich) desen
 
 ## Imagens
 
-- 01
-- 02
+![alt text](https://github.com/robsonsilv4/iAmRichFlutter/raw/master/01.png "Icone da aplicação")
+![alt text](https://github.com/robsonsilv4/iAmRichFlutter/raw/master/02.png "Tela da aplicação")
 
 ## Feito com
 
